@@ -1,7 +1,7 @@
 ## Exercise 1
 
 ### Write Java Program as described in Class Diagram below<br>
-![Class Diagram Exercise 1] (/exercise1.jpg) <br>
+![Class Diagram Exercise 1] (/Exercise_1/exercise1.JPG) <br>
 
 * **Class Application.java**
  * Constructor initialize application name and size (MB)
