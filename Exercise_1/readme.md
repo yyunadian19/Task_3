@@ -11,7 +11,7 @@
    
 * **Class AppStore.java**
  * method ```createNewApp( appName, appSize ) ``` 
-    **instantiate** new Application method and insert it in array appList
+    **instantiate** new Application object and insert it in array appList
  * method ```getApp( id ) : Application ``` 
     returns Application object from array appList with array index = id
  * Method ```toString() : String``` 
@@ -46,3 +46,5 @@
 * _install_ applications (in sequence) app1, app3, and app2 in SmartPhone _sm_<br>
 	example : ```sm.addApplication( aps, app1 ); ```
 * display the status of SmartPhone _sm_ after **each** installation<br>
+
+### Try another scenario case on your own
