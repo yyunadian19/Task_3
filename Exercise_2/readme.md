@@ -2,7 +2,7 @@
 # 
 
 ### Write Java Program as described in Class Diagram below<br>
-![Class Diagram Exercise 2] (/exercise2.jpg) <br>
+![Class Diagram Exercise 2] (/Exercise_2/exercise2.JPG) <br>
 
 * **Class Member.java**
  * Create 2 Constructors : initialize name, and initialize name and specialization
