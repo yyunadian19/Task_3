@@ -1,4 +1,4 @@
-## Exercise 1
+## Task 3 - Exercise 1 - 2017
 
 ### Write Java Program as described in Class Diagram below<br>
 ![Class Diagram Exercise 1] (/Exercise_1/exercise1.JPG) <br>
@@ -34,15 +34,15 @@
 * _create_ 4 new Applications within the App Store _aps_, with app name = app1, app2, app3, and app4; and app size 100, 200, 300, and 400<br>
 	example : ```aps.createNewApp( "app1" , 100 ); ```
 * display the status of App Store _aps_<br>
-	example : ```System.out.println( aps.toString() );```
+	example : ```System.out.println( aps );```
 * display the status of one of application available on App Store _aps_<br>
-	example : ```System.out.println( aps.getApp( 2 ).toString() );```
+	example : ```System.out.println( aps.getApp( 2 ) );```
 * **instantiate** 1 SmartPhone object _sm_, set the memory size 300<br>
 	example : <br>
         ```SmartPhone sm = new SmartPhone();```<br>
         ```sm.setMemory(300);```
 * display the status of SmartPhone _sm_<br>
-	example : ```System.out.println( sm.toString() ); ```
+	example : ```System.out.println( sm ); ```
 * _install_ applications (in sequence) app1, app3, and app2 in SmartPhone _sm_<br>
 	example : ```sm.addApplication( aps, app1 ); ```
 * display the status of SmartPhone _sm_ after **each** installation<br>

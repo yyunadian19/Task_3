@@ -1,2 +1,0 @@
-
-hasil anggota kedua

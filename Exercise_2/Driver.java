@@ -1,4 +1,0 @@
-
-
-anggota nyoba ngedit
-

@@ -1,4 +1,4 @@
-## Exercise 2
+## Task 3 - Exercise 2 - 2017
 # 
 
 ### Write Java Program as described in Class Diagram below<br>
@@ -56,9 +56,9 @@
 * set release one of the project<br>
 	example : ```stp.releaseProject( stp.getProject( 1 ) ); ```
 * display the status of **every** member in Start Up _stp_<br>
-	example : ```System.out.println( stp.getMember( 0 ).toString() );```
+	example : ```System.out.println( stp.getMember( 0 ) );```
 * display the status of **every** project in Start Up _stp_<br>
-	example : ```System.out.println( stp.getProject( 0 ).toString() );```
+	example : ```System.out.println( stp.getProject( 0 ) );```
 * display the number of released project in Start Up _stp_<br>
 
 ### Try another scenario case on your own
