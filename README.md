@@ -11,7 +11,7 @@ write down your identity (Name, Student ID, Class) on the top of each file
 ## Task 3 - Exercise 1 - 2017
 
 ### Write Java Program as described in Class Diagram below<br>
-![Class Diagram Exercise 1] (/Exercise_1/exercise1.JPG) <br>
+![Class Diagram Exercise 1] (/exercise1.JPG) <br>
 
 * **Class Application.java**
  * Constructor initialize application name and size (MB)
@@ -66,7 +66,7 @@ write down your identity (Name, Student ID, Class) on the top of each file
 # 
 
 ### Write Java Program as described in Class Diagram below<br>
-![Class Diagram Exercise 2] (/Exercise_2/exercise2.JPG) <br>
+![Class Diagram Exercise 2] (/exercise2.JPG) <br>
 
 * **Class Member.java**
  * Create 2 Constructors : initialize name, and initialize name and specialization
